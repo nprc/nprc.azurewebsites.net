@@ -64,7 +64,7 @@ Set folder = Nothing
 Set fs = Nothing
 %>
 <!--You Can Modify All Of The Code Below-->
-<p align="right">&copy; 2015 <a href="http://nprc.nz/">New Plymouth Reformed Church</a></p>
+<p align="right">&copy; 2015-2016 <a href="http://nprc.nz/">New Plymouth Reformed Church</a></p>
 </body>
 </html>
 
