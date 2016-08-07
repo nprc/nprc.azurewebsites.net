@@ -20,6 +20,9 @@ ga('create', 'UA-61493830-2', 'auto');
 ga('send', 'pageview');
 </script>
 <h1>New Plymouth Reformed Church Sermon Archive</h1>
+<p>
+	<a href="https://sermons2015.azurewebsites.net/">2015</a> <a href="https://sermons.azurewebsites.net/">2016</a>
+</p>
 <!--Do Not Modify The Following Code, Only Application("ICONS_PATH"), and Application("ICONS_VIRTUAL_PATH") If Needed-->
 <%
 ' Set the path to where the file icons are kept if it is empty
