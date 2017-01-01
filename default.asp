@@ -21,7 +21,7 @@ ga('send', 'pageview');
 </script>
 <h1>New Plymouth Reformed Church Sermon Archive</h1>
 <p>
-	<a href="https://sermons2015.azurewebsites.net/">2015</a> <a href="https://sermons.azurewebsites.net/">2016</a>
+	<a href="https://sermons2015.azurewebsites.net/">2015</a> <a href="https://sermons2016.azurewebsites.net/">2016</a> <a href="https://sermons.azurewebsites.net/">2017</a>
 </p>
 <!--Do Not Modify The Following Code, Only Application("ICONS_PATH"), and Application("ICONS_VIRTUAL_PATH") If Needed-->
 <%
@@ -67,7 +67,7 @@ Set folder = Nothing
 Set fs = Nothing
 %>
 <!--You Can Modify All Of The Code Below-->
-<p align="right">&copy; 2015-2016 <a href="http://nprc.nz/">New Plymouth Reformed Church</a></p>
+<p align="right">&copy; 2015-2017 <a href="http://nprc.nz/">New Plymouth Reformed Church</a></p>
 </body>
 </html>
 
