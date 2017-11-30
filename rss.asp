@@ -47,7 +47,7 @@ Set files = folder.Files
 
 ' Display each file one by one
 For Each file In files
-	' If we have an MP3 file, then display an item for it
+	' If we have an MP3 or PDF file, then display an item for it
 	If LCase(Right(file.Name, 4)) = ".mp3" Or LCase(Right(file.Name, 4)) = ".pdf" Then
 		' The RSS item
 		Response.Write("<item>")

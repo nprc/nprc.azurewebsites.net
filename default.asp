@@ -44,7 +44,7 @@ For Each filename In files
 	Dim fileExtension, filenameArray
 	filenameArray = Split(filename.Name, ".", -1, 1)
 	fileExtension = LCase(filenameArray(UBound(filenameArray)))
-	' If we have an MP3 file, then display a link to it
+	' If we have an MP3 or PDF file, then display a link to it
 	If fileExtension = "mp3" Or fileExtension = "pdf" Then
 		' Display the icon if one exists. This If statement speeds processing.
 		If Application("ICONS_PATH") <> "" Then
